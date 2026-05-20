@@ -20,11 +20,12 @@ The repository demonstrates transistor-level CMOS circuit design, physical layou
 - XOR Gate Designs
 - CLA Schematic Design
 - CLA Layout Design
-- AV Extracted Layouts
 - PNG Images of Layouts
 - Layout Demonstration Videos
 - DRC Verification
 - LVS Verification
+- AV Extracted Layouts
+
 
 ## Tools Used
 - Cadence Virtuoso
@@ -36,9 +37,10 @@ The repository demonstrates transistor-level CMOS circuit design, physical layou
 - Multi-input NAND and NOR gate implementation
 - XOR gate implementation for CLA logic
 - Carry Lookahead Adder architecture design
-- AV Extracted layouts and visualization
 - Layout walkthrough videos
 - DRC and LVS verification
+- AV Extracted layouts and visualization
+
 
 ## Design Flow
 1. Logic Gate Schematic Design
@@ -53,9 +55,10 @@ The repository demonstrates transistor-level CMOS circuit design, physical layou
 ## Project Structure
 - `/Schematics` → Schematics for all gates and CLA
 - `/Layouts` → Layout designs for all gates and CLA
-- `/Extracted_Views` → AV extracted layouts and PNG images
 - `/Videos` → Layout demonstration and walkthrough videos
 - `/Reports` → DRC and LVS reports
+- `/Extracted_Views` → AV extracted layouts and PNG images
+
 
 ## Learning Outcomes
 - CMOS logic gate design
