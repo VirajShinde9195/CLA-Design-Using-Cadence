@@ -1,2 +1,77 @@
-# CLA-Design-Using-Cadence
-This repository contains the schematic and layout implementation of a Carry Lookahead Adder (CLA) using Cadence Virtuoso. The project demonstrates high-speed CMOS arithmetic circuit design, layout generation, and physical verification using DRC and LVS.
+# Carry Lookahead Adder (CLA) Design Using Cadence
+
+## Overview
+This repository contains the complete schematic and layout implementation of a Carry Lookahead Adder (CLA) using Cadence Virtuoso.  
+The project includes the design of 2-input, 3-input, 4-input, and 5-input CMOS logic gates such as NAND, NOR, and XOR gates, which are used as building blocks for constructing the CLA architecture.
+
+The repository demonstrates transistor-level CMOS circuit design, physical layout implementation, AV extraction, and verification using standard VLSI design flow.
+
+## Contents
+- 2-Input NAND Gate
+- 3-Input NAND Gate
+- 4-Input NAND Gate
+- 5-Input NAND Gate
+
+- 2-Input NOR Gate
+- 3-Input NOR Gate
+- 4-Input NOR Gate
+- 5-Input NOR Gate
+
+- XOR Gate Designs
+- CLA Schematic Design
+- CLA Layout Design
+- AV Extracted Layouts
+- PNG Images of Layouts
+- Layout Demonstration Videos
+- DRC Verification
+- LVS Verification
+
+## Tools Used
+- Cadence Virtuoso
+- CMOS VLSI Design Concepts
+
+## Features
+- Transistor-level CMOS implementation
+- Schematic and layout design for each logic gate
+- Multi-input NAND and NOR gate implementation
+- XOR gate implementation for CLA logic
+- Carry Lookahead Adder architecture design
+- AV Extracted layouts and visualization
+- Layout walkthrough videos
+- DRC and LVS verification
+
+## Design Flow
+1. Logic Gate Schematic Design
+2. Logic Gate Layout Design
+3. CLA Schematic Construction
+4. CLA Layout Implementation
+5. Design Rule Check (DRC)
+6. Layout Versus Schematic (LVS)
+7. AV Extraction
+
+
+## Project Structure
+- `/Schematics` → Schematics for all gates and CLA
+- `/Layouts` → Layout designs for all gates and CLA
+- `/Extracted_Views` → AV extracted layouts and PNG images
+- `/Videos` → Layout demonstration and walkthrough videos
+- `/Reports` → DRC and LVS reports
+
+## Learning Outcomes
+- CMOS logic gate design
+- Multi-input gate implementation
+- Carry Lookahead Adder architecture understanding
+- Schematic to layout conversion
+- Physical verification using DRC and LVS
+- Layout extraction and visualization
+- Practical exposure to Cadence Virtuoso
+
+## Applications
+- Arithmetic Logic Units (ALU)
+- High-Speed Digital Systems
+- VLSI Arithmetic Circuits
+- Processor Design
+- Digital Signal Processing (DSP)
+
+## Author
+Viraj Shinde
