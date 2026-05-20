@@ -1,0 +1,50 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:36 (sjfhw885) $
+sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
+run on Cadence-Lab-WS20.viit.ac.in at Wed May 20 08:59:22 2026
+
+Schematic                                    | Layout                                    | Status
+---------------------------------------------------------------------------------------------------
+inverter schematic carry_lookahead_adder     | inverter layout carry_lookahead_adder     | matched
+3_ip_nor schematic carry_lookahead_adder     | 3_ip_nor layout carry_lookahead_adder     | matched
+3_ip_or schematic carry_lookahead_adder      | 3_ip_or layout carry_lookahead_adder      | matched
+2_ip_xor schematic carry_lookahead_adder     | 2_ip_xor layout carry_lookahead_adder     | matched
+2_ip_full_xor schematic carry_lookahead_adder| 2_ip_full_xor layout carry_lookahead_adder| matched
+2_ip_nor schematic carry_lookahead_adder     | 2_ip_nor layout carry_lookahead_adder     | matched
+2_ip_or schematic carry_lookahead_adder      | 2_ip_or layout carry_lookahead_adder      | matched
+nand schematic carry_lookahead_adder         | nand layout carry_lookahead_adder         | matched
+2_ip_and schematic carry_lookahead_adder     | 2_ip_and layout carry_lookahead_adder     | matched
+3_ip_nand schematic carry_lookahead_adder    | 3_ip_nand layout carry_lookahead_adder    | matched
+3_ip_and schematic carry_lookahead_adder     | 3_ip_and layout carry_lookahead_adder     | matched
+4_ip_nand schematic carry_lookahead_adder    | 4_ip_nand layout carry_lookahead_adder    | matched
+4_ip_and schematic carry_lookahead_adder     | 4_ip_and layout carry_lookahead_adder     | matched
+4_ip_nor schematic carry_lookahead_adder     | 4_ip_nor layout carry_lookahead_adder     | matched
+4_ip_or schematic carry_lookahead_adder      | 4_ip_or layout carry_lookahead_adder      | matched
+CLA_PBL schematic carry_lookahead_adder      | CLA_PBL layout carry_lookahead_adder      | matched
+
+Schematic and Layout Match
+
+Schematic:
+  Library:carry_lookahead_adder
+  Cell   :CLA_PBL
+  View   :schematic
+
+Layout:
+  Library:carry_lookahead_adder
+  Cell   :CLA_PBL
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+
